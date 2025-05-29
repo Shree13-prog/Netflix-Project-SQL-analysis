@@ -1,5 +1,19 @@
 # Netflix-Project-SQL-analysis
 
+## Objective
+The objective of this project is to perform a comprehensive exploratory data analysis (EDA) on Netflix's content library using SQL to uncover actionable insights related to content types, genre trends, regional contributions, content quality, and release patterns. This analysis aims to:
+
+- Identify the distribution between Movies and TV Shows
+- Highlight the most common and regionally favored genres
+- Determine top contributing countries and their content growth (with a focus on India)
+- Discover leading directors by frequency of contribution
+- Assess the general sentiment or tone of content based on descriptions
+- Analyze monthly content addition patterns to identify strategic release windows
+
+These insights will help in understanding Netflix’s content strategy, audience preferences, and growth patterns, especially in high-potential markets like India, to support data-driven decisions in content acquisition, localization, and marketing.
+
+
+
 ##  Key insights
 ### 1. **Content Type Distribution (Movies vs TV Shows)**
 
